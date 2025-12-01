@@ -1,5 +1,4 @@
-胖东来
-于东来
+vibe coding
 
 DeepSeek
 梁文锋
@@ -7,10 +6,10 @@ DeepSeek
 华为
 鸿蒙
 HarmonyOS
-任正非
 
-比亚迪
-王传福
+
+
+
 
 大疆
 DJI
